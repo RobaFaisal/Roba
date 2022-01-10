@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 50px;
+
+}
+main {
+    margin: 0%;
+    padding: 0 200px;
+}
+header{
+    background-color: deepskyblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+header h2 {
+    color:rgb(60, 107, 151); 
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 80px;
+    line-height: 100px;
+}
+header img {
+    border-radius: 300px;
+    width: 500px;
+    border:5px solid rgb(60, 107, 151);
+}
+main img {
+    padding: 0 300px;
+    width: 400px;
+}
+main h1 {
+    text-align: center;
+    color: blue;
+    text-align: center;
+}
+a {
+    color: rgb(33, 34, 8);
+}
+a:hover {
+    background-color: blueviolet;
+    color:white;
+}
+footer{
+    background-color: deepskyblue;
+    text-align: center;
+}
+main h2 {
+    color: rgb(22, 9, 59);
+    font-size: 60px;
+    text-align: center;
+}
